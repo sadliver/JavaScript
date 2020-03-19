@@ -52,3 +52,8 @@ while(c<20){
             break;
         };
 };
+
+//Ex4	ให้เขียน loop ทั้งแสดงเลข 2 ถึง 10 ออกมา
+for(let g = 2; g<=10; g++){
+    console.log(g);
+}

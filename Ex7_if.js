@@ -57,3 +57,5 @@ switch(fruit){
         console.log('I dont pick fruit');
         break;
 }
+
+
